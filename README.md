@@ -7,7 +7,7 @@
 
 This project is a simple, static website focusing on search engine optimization (SEO). It's part of the University of Utah Coding Bootcamp Week 1 Challenge. The website aims to provide services related to SEO, online reputation management, and social media marketing.
 
-**Deployed Website**: [UofU Bootcamp W1C](https://hyrumsdolan.github.io/UofU-Bootcamp-W1C/#search-engine-optimization)
+**Deployed Website**: [UofU Bootcamp W1C](https://hyrumsdolan.github.io/UofU-Bootcamp-W1C)
 
 ## Technologies Used
 
