@@ -1,6 +1,7 @@
 # UofU Bootcamp Week 1 Challenge
 
-![Website Screenshot](01-html-css-git-homework-demo.png)
+![Website Screenshot](./assets/images/01-html-css-git-homework-demo.png)
+
 
 ## Project Overview
 
